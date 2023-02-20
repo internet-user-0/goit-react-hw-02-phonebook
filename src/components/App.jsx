@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      а это вторая часть магии !!!!Phonebook!!!!фывфывфывфывфывфыв
     </div>
   );
 };
